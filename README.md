@@ -2,7 +2,7 @@
 
 How to open our ims
 
-1. Downlaod and unzip the file and place in hdocs-make sure file is called inventory_system not inventory_system1
+1. Download and unzip the file and place in hdocs-make sure file is called inventory_system not inventory_system1
 2. Download the databases querys
 3. Paste inventory_system into vsc
 4. create a new database called ims_php
